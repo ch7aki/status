@@ -4,28 +4,30 @@
     "url": "https://ch7aki.com",
     "icon": "https://icons.duckduckgo.com/ip3/ch7aki.com.ico",
     "slug": "homepage",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 1138,
     "timeDay": 1541,
     "timeWeek": 1221,
     "timeMonth": 1138,
     "timeYear": 1138,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-10": 2
+    }
   },
   {
     "name": "searxng",
     "url": "https://search.ch7aki.com",
     "icon": "https://icons.duckduckgo.com/ip3/search.ch7aki.com.ico",
     "slug": "searxng",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1054,
@@ -33,17 +35,19 @@
     "timeWeek": 1113,
     "timeMonth": 1054,
     "timeYear": 1054,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-10": 1
+    }
   },
   {
     "name": "nextcloud",
     "url": "https://cloud.ch7aki.com",
     "icon": "https://icons.duckduckgo.com/ip3/cloud.ch7aki.com.ico",
     "slug": "nextcloud",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1405,
@@ -51,14 +55,16 @@
     "timeWeek": 1511,
     "timeMonth": 1405,
     "timeYear": 1405,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-10": 1
+    }
   },
   {
     "name": "privatebin",
     "url": "https://paste.ch7aki.com",
     "icon": "https://icons.duckduckgo.com/ip3/paste.ch7aki.com.ico",
     "slug": "privatebin",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -69,6 +75,8 @@
     "timeWeek": 1195,
     "timeMonth": 1051,
     "timeYear": 1051,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-10": 0
+    }
   }
 ]
