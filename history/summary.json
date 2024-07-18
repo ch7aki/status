@@ -4,10 +4,10 @@
     "url": "https://ch7aki.com",
     "icon": "https://icons.duckduckgo.com/ip3/ch7aki.com.ico",
     "slug": "homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1146,
@@ -15,17 +15,19 @@
     "timeWeek": 1169,
     "timeMonth": 1146,
     "timeYear": 1146,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-18": 2
+    }
   },
   {
     "name": "searxng",
     "url": "https://search.ch7aki.com",
     "icon": "https://icons.duckduckgo.com/ip3/search.ch7aki.com.ico",
     "slug": "searxng",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1025,
@@ -33,17 +35,19 @@
     "timeWeek": 921,
     "timeMonth": 1025,
     "timeYear": 1025,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-18": 1
+    }
   },
   {
     "name": "nextcloud",
     "url": "https://cloud.ch7aki.com",
     "icon": "https://icons.duckduckgo.com/ip3/cloud.ch7aki.com.ico",
     "slug": "nextcloud",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1388,
@@ -51,14 +55,16 @@
     "timeWeek": 1325,
     "timeMonth": 1388,
     "timeYear": 1388,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-18": 1
+    }
   },
   {
     "name": "privatebin",
     "url": "https://paste.ch7aki.com",
     "icon": "https://icons.duckduckgo.com/ip3/paste.ch7aki.com.ico",
     "slug": "privatebin",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -69,6 +75,8 @@
     "timeWeek": 1038,
     "timeMonth": 1044,
     "timeYear": 1044,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-18": 0
+    }
   }
 ]
