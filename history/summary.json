@@ -68,10 +68,10 @@
     "url": "https://paste.ch7aki.com",
     "icon": "https://icons.duckduckgo.com/ip3/paste.ch7aki.com.ico",
     "slug": "privatebin",
-    "status": "up",
+    "status": "down",
     "uptime": "99.43%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "97.80%",
+    "uptimeWeek": "97.79%",
     "uptimeMonth": "99.43%",
     "uptimeYear": "99.43%",
     "time": 987,
@@ -80,6 +80,7 @@
     "timeMonth": 987,
     "timeYear": 987,
     "dailyMinutesDown": {
+      "2024-07-22": 0,
       "2024-07-21": 102,
       "2024-07-18": 121
     }
