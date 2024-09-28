@@ -1,6 +1,5 @@
 # [📈 Live Status](https://ch7aki.github.io/status): <!--live status--> **🟩 All systems operational**
 
-※ CloudFlare に移行したため Upptime で生存確認が出来ていない状態です。
 This repository contains the open-source uptime monitor and status page for [ch7aki](https://ch7aki.com), powered by [Upptime](https://github.com/upptime/upptime).
 
 [![Uptime CI](https://github.com/ch7aki/status/workflows/Uptime%20CI/badge.svg)](https://github.com/ch7aki/status/actions?query=workflow%3A%22Uptime+CI%22)
