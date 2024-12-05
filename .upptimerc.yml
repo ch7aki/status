@@ -7,8 +7,6 @@ sites:
     url: https://ch7aki.com
   - name: blog
     url: https://blog.ch7aki.com
-  - name: privatebin
-    url: https://paste.ch7aki.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
