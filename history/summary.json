@@ -7,8 +7,8 @@
     "status": "down",
     "uptime": "99.31%",
     "uptimeDay": "76.60%",
-    "uptimeWeek": "83.46%",
-    "uptimeMonth": "93.77%",
+    "uptimeWeek": "83.45%",
+    "uptimeMonth": "93.76%",
     "uptimeYear": "99.31%",
     "time": 877,
     "timeDay": 941,
@@ -16,7 +16,7 @@
     "timeMonth": 994,
     "timeYear": 877,
     "dailyMinutesDown": {
-      "2025-03-25": 0,
+      "2025-03-25": 1,
       "2025-03-24": 369,
       "2025-03-23": 140,
       "2025-03-22": 184,
@@ -49,7 +49,7 @@
     "timeMonth": 0,
     "timeYear": 1097,
     "dailyMinutesDown": {
-      "2025-03-25": 97,
+      "2025-03-25": 98,
       "2025-03-24": 1440,
       "2025-03-23": 1440,
       "2025-03-22": 1440,
