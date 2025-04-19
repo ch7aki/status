@@ -6,9 +6,9 @@
     "slug": "homepage",
     "status": "up",
     "uptime": "99.30%",
-    "uptimeDay": "80.01%",
-    "uptimeWeek": "78.14%",
-    "uptimeMonth": "93.11%",
+    "uptimeDay": "80.45%",
+    "uptimeWeek": "78.30%",
+    "uptimeMonth": "93.08%",
     "uptimeYear": "99.30%",
     "time": 896,
     "timeDay": 895,
@@ -16,7 +16,7 @@
     "timeMonth": 921,
     "timeYear": 896,
     "dailyMinutesDown": {
-      "2025-04-18": 289,
+      "2025-04-18": 283,
       "2025-04-17": 330,
       "2025-04-16": 446,
       "2025-04-15": 342,
@@ -25,7 +25,7 @@
       "2025-04-12": 266,
       "2025-04-11": 333,
       "2025-04-10": 313,
-      "2025-04-09": 171
+      "2025-04-09": 189
     }
   },
   {
@@ -34,18 +34,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.ch7aki.com.ico",
     "slug": "blog",
     "status": "down",
-    "uptime": "40.01%",
+    "uptime": "39.99%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "40.01%",
+    "uptimeYear": "39.99%",
     "time": 1097,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1097,
     "dailyMinutesDown": {
-      "2025-04-18": 1439,
+      "2025-04-19": 96,
+      "2025-04-18": 1440,
       "2025-04-17": 1440,
       "2025-04-16": 1440,
       "2025-04-15": 1440,
