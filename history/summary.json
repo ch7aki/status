@@ -4,7 +4,7 @@
     "url": "https://ch7aki.com",
     "icon": "https://icons.duckduckgo.com/ip3/ch7aki.com.ico",
     "slug": "homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.15%",
     "uptimeDay": "61.59%",
     "uptimeWeek": "67.73%",
@@ -45,7 +45,7 @@
     "timeMonth": 0,
     "timeYear": 1097,
     "dailyMinutesDown": {
-      "2025-04-25": 826,
+      "2025-04-25": 834,
       "2025-04-24": 1440,
       "2025-04-23": 1440,
       "2025-04-22": 1440,
