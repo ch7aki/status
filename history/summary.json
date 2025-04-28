@@ -6,14 +6,14 @@
     "slug": "homepage",
     "status": "up",
     "uptime": "99.10%",
-    "uptimeDay": "54.44%",
-    "uptimeWeek": "59.99%",
-    "uptimeMonth": "90.79%",
+    "uptimeDay": "55.64%",
+    "uptimeWeek": "60.25%",
+    "uptimeMonth": "90.85%",
     "uptimeYear": "99.10%",
     "time": 911,
     "timeDay": 1028,
     "timeWeek": 997,
-    "timeMonth": 942,
+    "timeMonth": 943,
     "timeYear": 911,
     "dailyMinutesDown": {
       "2025-04-28": 155,
@@ -23,7 +23,7 @@
       "2025-04-24": 562,
       "2025-04-23": 744,
       "2025-04-22": 602,
-      "2025-04-21": 242
+      "2025-04-21": 216
     }
   },
   {
@@ -43,7 +43,7 @@
     "timeMonth": 0,
     "timeYear": 1097,
     "dailyMinutesDown": {
-      "2025-04-28": 269,
+      "2025-04-28": 286,
       "2025-04-27": 1440,
       "2025-04-26": 1440,
       "2025-04-25": 1440,
