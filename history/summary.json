@@ -4,15 +4,15 @@
     "url": "https://ch7aki.com",
     "icon": "https://icons.duckduckgo.com/ip3/ch7aki.com.ico",
     "slug": "homepage",
-    "status": "up",
-    "uptime": "99.05%",
-    "uptimeDay": "54.76%",
-    "uptimeWeek": "57.55%",
-    "uptimeMonth": "90.23%",
-    "uptimeYear": "99.05%",
+    "status": "down",
+    "uptime": "99.06%",
+    "uptimeDay": "54.78%",
+    "uptimeWeek": "58.25%",
+    "uptimeMonth": "90.39%",
+    "uptimeYear": "99.06%",
     "time": 913,
     "timeDay": 981,
-    "timeWeek": 985,
+    "timeWeek": 983,
     "timeMonth": 943,
     "timeYear": 913,
     "dailyMinutesDown": {
@@ -23,7 +23,7 @@
       "2025-04-26": 491,
       "2025-04-25": 531,
       "2025-04-24": 562,
-      "2025-04-23": 527
+      "2025-04-23": 457
     }
   },
   {
@@ -43,7 +43,7 @@
     "timeMonth": 0,
     "timeYear": 1097,
     "dailyMinutesDown": {
-      "2025-04-30": 251,
+      "2025-04-30": 274,
       "2025-04-29": 1440,
       "2025-04-28": 1440,
       "2025-04-27": 1440,
