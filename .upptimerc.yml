@@ -3,10 +3,10 @@ owner: ch7aki # Your GitHub organization or username, where this repository live
 repo: status # The name of this repository
 
 sites:
-  - name: homepage
+  - name: blog_A
     url: https://ch7aki.com
-  - name: blog
-    url: https://blog.ch7aki.com
+  - name: blog_B
+    url: https://ch7aki-life.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -19,9 +19,11 @@ status-website:
   navbar:
     - title: status
       href: /status
-    - title: homepage
+    - title: blog_A
       href: https://ch7aki.com
-    - title: gitHub
+    - title: blog_B
+      href: https://ch7aki-life.com
+    - title: status
       href: https://github.com/$OWNER/$REPO
 i18n:
   footer: <small>Powered by <a href="https://ch7aki.com"><strong>ch7aki</strong></a>.</small>
