@@ -22,17 +22,19 @@
     "url": "https://ch7aki-life.com",
     "icon": "https://icons.duckduckgo.com/ip3/ch7aki-life.com.ico",
     "slug": "blog-b",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 993,
-    "timeDay": 974,
-    "timeWeek": 953,
-    "timeMonth": 993,
-    "timeYear": 993,
-    "dailyMinutesDown": {}
+    "status": "up",
+    "uptime": "99.84%",
+    "uptimeDay": "98.32%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.84%",
+    "time": 1005,
+    "timeDay": 1057,
+    "timeWeek": 977,
+    "timeMonth": 1005,
+    "timeYear": 1005,
+    "dailyMinutesDown": {
+      "2025-07-09": 24
+    }
   }
 ]
