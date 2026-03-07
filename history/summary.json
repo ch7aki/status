@@ -4,9 +4,9 @@
     "url": "https://ch7aki.com",
     "icon": "https://icons.duckduckgo.com/ip3/ch7aki.com.ico",
     "slug": "blog-a",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 1373,
     "timeMonth": 1481,
     "timeYear": 1603,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-03-07": 0
+    }
   },
   {
     "name": "blog_B",
