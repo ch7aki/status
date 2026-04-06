@@ -4,19 +4,20 @@
     "url": "https://ch7aki.com",
     "icon": "https://icons.duckduckgo.com/ip3/ch7aki.com.ico",
     "slug": "blog-a",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.57%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.99%",
     "time": 1621,
-    "timeDay": 7056,
-    "timeWeek": 2524,
-    "timeMonth": 1735,
+    "timeDay": 4328,
+    "timeWeek": 2409,
+    "timeMonth": 1751,
     "timeYear": 1621,
     "dailyMinutesDown": {
-      "2026-04-05": 1
+      "2026-04-06": 2,
+      "2026-04-05": 18
     }
   },
   {
@@ -33,7 +34,7 @@
     "time": 968,
     "timeDay": 8805,
     "timeWeek": 2049,
-    "timeMonth": 1129,
+    "timeMonth": 1150,
     "timeYear": 968,
     "dailyMinutesDown": {
       "2026-04-05": 17,
