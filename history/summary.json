@@ -4,11 +4,11 @@
     "url": "https://ch7aki.com",
     "icon": "https://icons.duckduckgo.com/ip3/ch7aki.com.ico",
     "slug": "blog-a",
-    "status": "up",
+    "status": "down",
     "uptime": "98.91%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "84.57%",
-    "uptimeMonth": "89.49%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "89.85%",
+    "uptimeMonth": "89.48%",
     "uptimeYear": "98.91%",
     "time": 1610,
     "timeDay": 1913,
@@ -51,7 +51,8 @@
       "2026-05-22": 138,
       "2026-05-23": 80,
       "2026-05-24": 98,
-      "2026-05-27": 111
+      "2026-05-27": 111,
+      "2026-05-28": 5
     }
   },
   {
@@ -59,10 +60,10 @@
     "url": "https://ch7aki-life.com",
     "icon": "https://icons.duckduckgo.com/ip3/ch7aki-life.com.ico",
     "slug": "blog-b",
-    "status": "up",
+    "status": "down",
     "uptime": "98.93%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "84.85%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "90.19%",
     "uptimeMonth": "89.76%",
     "uptimeYear": "98.93%",
     "time": 953,
@@ -105,7 +106,8 @@
       "2026-05-22": 133,
       "2026-05-23": 70,
       "2026-05-24": 88,
-      "2026-05-27": 106
+      "2026-05-27": 106,
+      "2026-05-28": 0
     }
   }
 ]
