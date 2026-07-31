@@ -21,8 +21,8 @@ status-website:
       href: /status
     - title: blog_A
       href: https://ch7aki.com
-    - title: blog_B
-      href: https://ch7aki-life.com
+    # - title: blog_B
+    #   href: https://ch7aki-life.com
     - title: status
       href: https://github.com/$OWNER/$REPO
 i18n:
