@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/ch7aki.com.ico",
     "slug": "blog-a",
     "status": "down",
-    "uptime": "97.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "94.68%",
-    "uptimeMonth": "92.99%",
-    "uptimeYear": "97.78%",
+    "uptime": "97.80%",
+    "uptimeDay": "32.83%",
+    "uptimeWeek": "86.11%",
+    "uptimeMonth": "91.02%",
+    "uptimeYear": "97.60%",
     "time": 1591,
-    "timeDay": 1652,
-    "timeWeek": 1434,
-    "timeMonth": 1463,
+    "timeDay": 0,
+    "timeWeek": 1425,
+    "timeMonth": 1469,
     "timeYear": 1582,
     "dailyMinutesDown": {
       "2026-04-18": 30,
@@ -85,7 +85,8 @@
       "2026-07-27": 201,
       "2026-07-28": 156,
       "2026-07-29": 76,
-      "2026-08-01": 0
+      "2026-08-02": 175,
+      "2026-08-01": 792
     }
   }
 ]
